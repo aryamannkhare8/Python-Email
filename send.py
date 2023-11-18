@@ -1,5 +1,7 @@
 '''
-This is a python code that extracts name and column from the csv file. Then finds a pdf from the specified directory to extract the pdf file saved as 'name' with '.pdf' extension. If pdf exists then send a email, if not then print the name for which no email was found.
+This is a python code that extracts name and column from the csv file. Then finds a pdf from the specified 
+directory to extract the pdf file saved as 'name' with '.pdf' extension. If pdf exists then send a email,
+if not then print the name for which no email was found.
 
 '''
 
