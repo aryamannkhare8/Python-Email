@@ -38,6 +38,6 @@ This Python script is designed to perform the following tasks:
 python email_pdf_sender.py
 ```
 
-## Author: Aryamann Khare  
-## Contact: aryamannkhare8@gmail.com  
-## LinkedIn: www.linkedin.com/in/aryamann-khare-8b9453178
+### Author: Aryamann Khare  
+### Contact: aryamannkhare8@gmail.com  
+### LinkedIn: www.linkedin.com/in/aryamann-khare-8b9453178
